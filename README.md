@@ -16,4 +16,4 @@ I’m a full-stack developer with a strong focus on backend technologies. Curren
 </br>
 </br>
 </br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,c,cpp,docker,express,git,github,js,linux,mongodb,mysql,nextjs,nodejs,postgres,postman,prisma,react,redis,tailwind,ts,vercel,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws,c,go,cpp,docker,express,git,github,js,linux,mongodb,mysql,nextjs,nodejs,postgres,postman,prisma,react,redis,tailwind,ts,vercel,vim)](https://skillicons.dev)
