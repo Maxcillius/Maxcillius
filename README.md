@@ -1,9 +1,16 @@
 <h1 align="center">Hey There 👋, I'm Gourav</h1>
 <h3 align="center">Coder</h3>
 
-👩🏻‍🎓 Currently pursuing B.Tech in Information Technology(2023-2027) from National Institute of Technology Raipur
+- 1+ year of experience building full-stack web applications
+- Developed **IconGen** – a SaaS product for generating icon sets
+- Built a **production-ready chat backend** in Go with service modularity, Docker, and CI/CD
+- Participated in multiple hackathons with hands-on experience in team collaboration, rapid prototyping, and delivery under deadlines
+- Active contributor to open-source projects
 
-I’m a full-stack developer with a strong focus on backend technologies. Currently building web apps and improving my skills. Contributingg to open-source work. Besides development, I enjoy exploring pentesting. Always open to learning, collaborating, and taking on new challenges. Check out my projects below!
+## Reach Out
+
+- [LinkedIn](https://www.linkedin.com/in/gouravdeep)
+- [Email](mailto:alphaviperchamber@hotmail.com)
 
 </br>
 </br>
