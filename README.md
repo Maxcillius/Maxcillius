@@ -3,7 +3,6 @@
 
 - 1+ year of experience building full-stack web applications
 - Developed **IconGen** – a SaaS product for generating icon sets
-- Built a **production-ready chat backend** in Go with service modularity, Docker, and CI/CD
 - Participated in multiple hackathons with hands-on experience in team collaboration, rapid prototyping, and delivery under deadlines
 - Active contributor to open-source projects
 
